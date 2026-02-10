@@ -1,0 +1,52 @@
+[
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Products.csv",
+        "h_sink_folder" : "AdventureWorks_Product_Categories",
+        "h_sink_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Calendar.csv",
+        "h_sink_folder" : "AdventureWorks_Calendar",
+        "h_sink_file" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Customers.csv",
+        "h_sink_folder" : "AdventureWorks_Customers",
+        "h_sink_file" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "h_sink_folder" : "Product_Subcategories",
+        "h_sink_file" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_AdventureWorks_Products.csv",
+        "h_sink_folder" : "AdventureWorks_Products",
+        "h_sink_file" : "AdventureWorks_Products.csv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Returns.csv",
+        "h_sink_folder" : "AdventureWorks_Returns",
+        "h_sink_file":"AdventureWorks_Returns.csv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "h_sink_folder" : "AdventureWorks_Sales_2015",
+        "h_sink_file" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "h_sink_folder" : "AdventureWorks_Sales_2016",
+        "h_sink_file" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "h_sink_folder" : "AdventureWorks_Sales_2017",
+        "h_sink_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "h_rel_url" : "harshmeshram2002/AdventureWorks/refs/heads/main/AdventureWorks_Territories.csv",
+        "h_sink_folder" : "AdventureWorks_Territories",
+        "h_sink_file" : "AdventureWorks_Territories.filename"
+    }
+]

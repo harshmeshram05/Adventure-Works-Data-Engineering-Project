@@ -17,7 +17,7 @@ downstream analysis.
 **Here I had used Azure DataLake Storage Gen2 to store the data in the form of hierarchies and also created 3 containers to follow Medallion architecture (bronze, silver and gold)**
 
 ## Bronze Layer 
-**Now, I will load the data from GitHub to the bronze layer). Now, I will be creating a Copy Activity which will be parameterised to copy the data from GitHub to bronze.
+**I loaded the data from GitHub to the bronze layer).I created a Copy Activity which will be parameterised to copy the data from GitHub to bronze.
 I created a new Pipeline where I dragged a Copy Activity. The input (each rel_url will be coming from a ForEach Activity) of the Copy Activity receives a 
 h_rel_url which will dynamically change upon each Copy step and Lookup activity is created for fetching the information**
 
